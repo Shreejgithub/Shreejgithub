@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Shreyas Jadhav</h1>
 <h3 align="center">A Dynamic Frontend Developer</h3>
 
-- 🔭 I’m currently working on [Real Estate Web App](https://github.com/Shreejgithub/)
+- 🔭 I’m currently working on [Full Stack Admin Dashboard](https://github.com/Shreejgithub/client)
 
 - 🌱 I’m currently learning **ReactJs**
 
